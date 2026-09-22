@@ -1,0 +1,151 @@
+imei,subsystem,level,message
+300434066294260,iridium,ok,340 unique messages downloaded
+300434066294260,iridium,warn,"MOMSN 187-537: 11/351 not in this download (300, 301, 302, 303, 304, 305, 306, 307, 308, 309) -- re-export, or those transmissions never landed"
+300434066294260,iridium,info,"message kinds: Gx169, Yx171"
+300434066294260,gnss,ok,"1014 unique valid fixes, lat 84.10978..84.57953, lon -167.88811..-153.73497"
+300434066294260,gnss,info,fixes-since-boot counter 1..255
+300434066294260,gnss,ok,"net displacement 91272 m over 21 days, 20:30:10, path length 324732 m"
+300434066294260,gnss,info,median speed over ground 0.15 m/s (0.3 kn)
+300434066294260,waves,ok,"171 spectra, all 55 bins populated and non-degenerate"
+300434066294260,waves,ok,"Hs(raw) 0.0047..0.0070 m (median 0.0057), Tz 13.4..16.7 s"
+300434066294260,waves,warn,"spectrum counter 1..176 steps by [1, 6] -- the buoy computed spectra we did not receive (missing message), not a sensor fault"
+300434066294260,waves,info,reporting interval 35-1080 min (median 180)
+300434066294260,thermistor,info,no thermistor messages (T/U/V/W/A) -- consistent with no thermal string fitted; nothing to check
+300434066298280,iridium,ok,190 unique messages downloaded
+300434066298280,iridium,warn,"MOMSN 511-718: 18/208 not in this download (539, 540, 541, 542, 543, 544, 545, 546, 547, 548) -- re-export, or those transmissions never landed"
+300434066298280,iridium,info,"message kinds: Gx48, Ux72, Yx70"
+300434066298280,gnss,ok,"283 unique valid fixes, lat 86.10324..86.25216, lon -148.75186..-140.03564"
+300434066298280,gnss,info,fixes-since-boot counter 1..253
+300434066298280,gnss,ok,"net displacement 65376 m over 6 days, 9:11:56, path length 82152 m"
+300434066298280,gnss,info,median speed over ground 0.13 m/s (0.2 kn)
+300434066298280,waves,ok,"70 spectra, all 55 bins populated and non-degenerate"
+300434066298280,waves,ok,"Hs(raw) 0.0045..0.0080 m (median 0.0054), Tz 14.2..16.9 s"
+300434066298280,waves,warn,"spectrum counter 1..77 steps by [1, 8] -- the buoy computed spectra we did not receive (missing message), not a sensor fault"
+300434066298280,waves,info,reporting interval 119-959 min (median 120)
+300434066298280,thermistor,ok,72 thermistor message(s) received
+300434066808240,iridium,ok,344 unique messages downloaded
+300434066808240,iridium,warn,"MOMSN 184-537: 10/354 not in this download (297, 298, 299, 300, 301, 302, 303, 304, 305, 306) -- re-export, or those transmissions never landed"
+300434066808240,iridium,info,"message kinds: Gx171, Yx173"
+300434066808240,gnss,ok,"1021 unique valid fixes (1 retransmitted in a later message), lat 84.09255..84.55839, lon -167.69581..-153.66381"
+300434066808240,gnss,info,fixes-since-boot counter 1..255
+300434066808240,gnss,ok,"net displacement 92216 m over 21 days, 21:30:00, path length 322745 m"
+300434066808240,gnss,info,median speed over ground 0.16 m/s (0.3 kn)
+300434066808240,waves,ok,"173 spectra, all 55 bins populated and non-degenerate"
+300434066808240,waves,ok,"Hs(raw) 0.0038..0.0062 m (median 0.0047), Tz 13.8..16.9 s"
+300434066808240,waves,warn,"spectrum counter 7..184 steps by [-1, 1, 2, 6] -- the buoy computed spectra we did not receive (missing message), not a sensor fault"
+300434066808240,waves,info,reporting interval 1-1080 min (median 180)
+300434066808240,thermistor,info,no thermistor messages (T/U/V/W/A) -- consistent with no thermal string fitted; nothing to check
+300434067469010,iridium,ok,5 unique messages downloaded
+300434067469010,iridium,ok,"MOMSN 195-199, no gaps"
+300434067469010,iridium,info,"message kinds: Gx2, Yx3"
+300434067469010,gnss,ok,"7 unique valid fixes, lat 86.11073..86.11643, lon -149.02300..-149.00803"
+300434067469010,gnss,info,fixes-since-boot counter 1..7
+300434067469010,gnss,ok,"net displacement 636 m over 2:58:06, path length 663 m"
+300434067469010,gnss,info,median speed over ground 0.06 m/s (0.1 kn)
+300434067469010,waves,ok,"3 spectra, all 55 bins populated and non-degenerate"
+300434067469010,waves,ok,"Hs(raw) 0.0048..0.0051 m (median 0.0050), Tz 14.8..15.5 s"
+300434067469010,waves,ok,"spectrum counter 1..3, strictly consecutive"
+300434067469010,waves,info,reporting interval 88-180 min (median 134)
+300434067469010,thermistor,info,no thermistor messages (T/U/V/W/A) -- consistent with no thermal string fitted; nothing to check
+300434067663220,iridium,ok,1 unique messages downloaded
+300434067663220,iridium,ok,"MOMSN 7-7, no gaps"
+300434067663220,iridium,info,message kinds: Yx1
+300434067663220,gnss,fail,no GNSS fixes in any message
+300434067663220,waves,ok,"1 spectra, all 55 bins populated and non-degenerate"
+300434067663220,waves,ok,"Hs(raw) 0.0132..0.0132 m (median 0.0132), Tz 16.0..16.0 s"
+300434067663220,thermistor,info,no thermistor messages (T/U/V/W/A) -- consistent with no thermal string fitted; nothing to check
+300434067664150,iridium,ok,3 unique messages downloaded
+300434067664150,iridium,ok,"MOMSN 273-275, no gaps"
+300434067664150,iridium,info,"message kinds: Gx2, Yx1"
+300434067664150,gnss,ok,"2 unique valid fixes, lat 86.26790..86.26803, lon -153.92744..-153.92647"
+300434067664150,gnss,info,fixes-since-boot counter 1..1
+300434067664150,gnss,ok,"net displacement 15 m over 0:04:22, path length 15 m"
+300434067664150,gnss,info,median speed over ground 0.06 m/s (0.1 kn)
+300434067664150,waves,ok,"1 spectra, all 55 bins populated and non-degenerate"
+300434067664150,waves,ok,"Hs(raw) 0.0055..0.0055 m (median 0.0055), Tz 15.5..15.5 s"
+300434067664150,thermistor,info,no thermistor messages (T/U/V/W/A) -- consistent with no thermal string fitted; nothing to check
+300434067666170,iridium,ok,57 unique messages downloaded
+300434067666170,iridium,ok,"MOMSN 190-246, no gaps"
+300434067666170,iridium,info,"message kinds: Gx28, Yx29"
+300434067666170,gnss,ok,"167 unique valid fixes, lat 85.27951..85.66075, lon -1.73425..0.15332"
+300434067666170,gnss,info,fixes-since-boot counter 13..175
+300434067666170,gnss,ok,"net displacement 43571 m over 3 days, 10:59:47, path length 55075 m"
+300434067666170,gnss,info,median speed over ground 0.18 m/s (0.4 kn)
+300434067666170,waves,ok,"29 spectra, all 55 bins populated and non-degenerate"
+300434067666170,waves,ok,"Hs(raw) 0.0052..0.0871 m (median 0.0069), Tz 13.1..16.0 s"
+300434067666170,waves,ok,"spectrum counter 10..38, strictly consecutive"
+300434067666170,waves,info,reporting interval 179-181 min (median 180)
+300434067666170,thermistor,info,no thermistor messages (T/U/V/W/A) -- consistent with no thermal string fitted; nothing to check
+301434060195840,iridium,ok,262 unique messages downloaded
+301434060195840,iridium,ok,"MOMSN 301-562, no gaps"
+301434060195840,iridium,info,"message kinds: Gx105, Yx157"
+301434060195840,gnss,ok,"629 unique valid fixes, lat 87.15792..88.67177, lon 139.53881..153.91065"
+301434060195840,gnss,info,fixes-since-boot counter 2..254
+301434060195840,gnss,ok,"net displacement 170099 m over 13 days, 2:00:00, path length 253815 m"
+301434060195840,gnss,info,median speed over ground 0.22 m/s (0.4 kn)
+301434060195840,waves,ok,"157 spectra, all 55 bins populated and non-degenerate"
+301434060195840,waves,ok,"Hs(raw) 0.0044..0.0105 m (median 0.0056), Tz 13.2..16.8 s"
+301434060195840,waves,ok,"spectrum counter 10..166, strictly consecutive"
+301434060195840,waves,info,reporting interval 120-120 min (median 120)
+301434060195840,thermistor,info,no thermistor messages (T/U/V/W/A) -- consistent with no thermal string fitted; nothing to check
+301434060197820,iridium,ok,39 unique messages downloaded
+301434060197820,iridium,ok,"MOMSN 0-38, no gaps"
+301434060197820,iridium,info,"message kinds: Gx15, Yx24"
+301434060197820,gnss,ok,"18 unique valid fixes (1 retransmitted in a later message), lat 86.32761..86.36568, lon 4.20230..4.76040"
+301434060197820,gnss,info,fixes-since-boot counter 7..19
+301434060197820,gnss,ok,"net displacement 5793 m over 8:30:02, path length 5824 m"
+301434060197820,gnss,info,median speed over ground 0.20 m/s (0.4 kn)
+301434060197820,waves,ok,"6 spectra, all 55 bins populated and non-degenerate"
+301434060197820,waves,ok,"Hs(raw) 0.0058..0.1624 m (median 0.0065), Tz 14.4..16.8 s"
+301434060197820,waves,ok,"spectrum counter 1..6, strictly consecutive"
+301434060197820,waves,info,reporting interval 31-120 min (median 120)
+301434060197820,thermistor,info,no thermistor messages (T/U/V/W/A) -- consistent with no thermal string fitted; nothing to check
+301434060445230,iridium,ok,23 unique messages downloaded
+301434060445230,iridium,ok,"MOMSN 291-313, no gaps"
+301434060445230,iridium,info,"message kinds: Gx6, Yx17"
+301434060445230,gnss,ok,"27 unique valid fixes, lat 88.51717..88.55892, lon 81.56746..83.37322"
+301434060445230,gnss,info,fixes-since-boot counter 172..196
+301434060445230,gnss,ok,"net displacement 6840 m over 12:59:48, path length 7577 m"
+301434060445230,gnss,info,median speed over ground 0.17 m/s (0.3 kn)
+301434060445230,waves,ok,"8 spectra, all 55 bins populated and non-degenerate"
+301434060445230,waves,ok,"Hs(raw) 0.0049..0.0062 m (median 0.0053), Tz 14.6..15.9 s"
+301434060445230,waves,ok,"spectrum counter 46..53, strictly consecutive"
+301434060445230,waves,info,reporting interval 120-120 min (median 120)
+301434060445230,thermistor,info,no thermistor messages (T/U/V/W/A) -- consistent with no thermal string fitted; nothing to check
+301434060742420,iridium,ok,574 unique messages downloaded
+301434060742420,iridium,ok,"MOMSN 0-573, no gaps"
+301434060742420,iridium,info,"message kinds: Gx231, Yx343"
+301434060742420,gnss,ok,"1320 unique valid fixes (1 retransmitted in a later message), lat 84.62080..86.36775, lon 4.77889..11.91297"
+301434060742420,gnss,info,fixes-since-boot counter 1..255
+301434060742420,gnss,ok,"net displacement 197787 m over 27 days, 11:55:11, path length 364899 m"
+301434060742420,gnss,info,median speed over ground 0.13 m/s (0.2 kn)
+301434060742420,gnss,warn,implied speed up to 14.2 m/s between fixes -- jumpy position solution
+301434060742420,waves,ok,"331 spectra, all 55 bins populated and non-degenerate"
+301434060742420,waves,ok,"Hs(raw) 0.0045..0.7846 m (median 0.0059), Tz 13.4..20.8 s"
+301434060742420,waves,ok,"spectrum counter 4..334, strictly consecutive"
+301434060742420,waves,info,reporting interval 60-240 min (median 120)
+301434060742420,thermistor,info,no thermistor messages (T/U/V/W/A) -- consistent with no thermal string fitted; nothing to check
+301434060746440,iridium,ok,801 unique messages downloaded
+301434060746440,iridium,warn,"MOMSN 406-1208: 2/803 not in this download (599, 1147) -- re-export, or those transmissions never landed"
+301434060746440,iridium,info,"message kinds: Gx305, Yx496"
+301434060746440,gnss,ok,"1757 unique valid fixes, lat 87.17536..89.97981, lon 63.92748..117.91629"
+301434060746440,gnss,info,fixes-since-boot counter 1..255
+301434060746440,gnss,ok,"net displacement 311846 m over 36 days, 17:00:03, path length 598467 m"
+301434060746440,gnss,info,median speed over ground 0.17 m/s (0.3 kn)
+301434060746440,waves,ok,"439 spectra, all 55 bins populated and non-degenerate"
+301434060746440,waves,ok,"Hs(raw) 0.0039..0.0601 m (median 0.0051), Tz 12.3..20.7 s"
+301434060746440,waves,warn,"spectrum counter 58..497 steps by [1, 2] -- the buoy computed spectra we did not receive (missing message), not a sensor fault"
+301434060746440,waves,info,reporting interval 115-240 min (median 120)
+301434060746440,thermistor,info,no thermistor messages (T/U/V/W/A) -- consistent with no thermal string fitted; nothing to check
+301434061137640,iridium,ok,1142 unique messages downloaded
+301434061137640,iridium,warn,"MOMSN 11472-12632: 19/1161 not in this download (12152, 12153, 12154, 12155, 12156, 12157, 12158, 12159, 12160, 12161) -- re-export, or those transmissions never landed"
+301434061137640,iridium,info,"message kinds: Gx288, Ux430, Yx424"
+301434061137640,gnss,ok,"1655 unique valid fixes, lat 85.57292..87.45545, lon 56.67420..72.98489"
+301434061137640,gnss,info,fixes-since-boot counter 1..255
+301434061137640,gnss,ok,"net displacement 227972 m over 35 days, 22:00:01, path length 596747 m"
+301434061137640,gnss,info,median speed over ground 0.18 m/s (0.4 kn)
+301434061137640,waves,ok,"424 spectra, all 55 bins populated and non-degenerate"
+301434061137640,waves,ok,"Hs(raw) 0.0055..0.0298 m (median 0.0080), Tz 13.1..18.0 s"
+301434061137640,waves,warn,"spectrum counter 112..19 steps by [-187, -94, -80, -40, -26, -23, -19, -12, -11, -9, -4, 0, 1, 8] -- the buoy computed spectra we did not receive (missing message), not a sensor fault"
+301434061137640,waves,info,reporting interval 91-960 min (median 120)
+301434061137640,thermistor,ok,430 thermistor message(s) received
